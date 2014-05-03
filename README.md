@@ -3,6 +3,14 @@ packlist
 
 Ein Packlisten-Generator für Zuhause
 
+Auswahl
+-------
+Personen: Ernie [ ] Bert [ ] Quietscheentchen [ ] weitere [ ]
+Dauer: ___ Tage/Wochen
+Wetter/Jahreszeit: Schnee, Regen, Sonne, Wind, Sommer, Winter, ...
+Fortbewegungsmittel: zu Fuß [ ] mit dem Rad [ ] per Bus [ ] per Auto [ ]
+
+
 Geplante Features
 -----------------
 * Auswahl der Items nach Personen, Dauer, Wetter/Jahreszeit, Fortbewegungsmittel (per Auto, Bahn, ...)
